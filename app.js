@@ -11,7 +11,7 @@ const passport = require('passport')
 // require('./config/passport')
 
 mongoose.Promise = global.Promise
-mongoose.connect('mongodb://localhost:27017/site-auth')
+mongoose.connect('mongodb://localhost:27017/login-sign-node')
 
 // 1
 const app = express()
