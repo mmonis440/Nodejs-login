@@ -1,5 +1,5 @@
 # Nodejs-login
 
-for running use 
-delete package.json file and 
-run npm install 
+#for running  
+#delete package.json file and 
+#run npm install 
